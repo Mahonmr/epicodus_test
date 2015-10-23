@@ -27,7 +27,7 @@ some numbers.
 
 Install ping pong by cloning this repository
 ```
-https://github.com/Mahonmr/epicodus_test_out.com
+https://github.com/Mahonmr/epicodus_test.git
 ```
 
 ##License
