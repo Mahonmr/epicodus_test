@@ -58,7 +58,3 @@ function ping_pong(i) {
     return i;
   }
 }
-//For testing
-if (exports !== undefined) {
-  exports.valid_input = valid_input;
-}
