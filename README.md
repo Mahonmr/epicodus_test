@@ -28,5 +28,3 @@ https://github.com/Mahonmr/epicodus_test.git
 ##License
 
 MIT License, Copyright 2015 Epicodus
-# epicodus_test
-Testing out of the Intro to Programming class
