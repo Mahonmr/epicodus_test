@@ -1,35 +1,35 @@
 html, body{
-    padding:0;
-    margin:0;
-    height: 100%;
-    background-color: #D3D3D3;
-  }
+  padding:0;
+  margin:0;
+  height: 100%;
+  background-color: #D3D3D3;
+}
 
-  .sidebar_yellow {
-    color: LemonChiffon;
-  }
+.sidebar_yellow {
+  color: LemonChiffon;
+}
 
-  .sidebar_white{
-    color: white;
-  }
+.sidebar_white{
+  color: white;
+}
 
-  .top{
-    background: LemonChiffon;
-  }
+.top{
+  background: LemonChiffon;
+}
 
-  .main{
-    position: absolute;
-    top: 0;
-    padding-top: 225px;
-    height: 100%;
-    width: 100%;
-  }
+.main{
+  position: absolute;
+  top: 0;
+  padding-top: 225px;
+  height: 100%;
+  width: 100%;
+}
 
-  .main .row {
-    height: 100%;
-  }
+.main .row {
+  height: 100%;
+}
 
-  .sidebar {
-    height: 100%;
-    background:DarkSeaGreen;
-  }
+.sidebar {
+  height: 100%;
+  background:DarkSeaGreen;
+}
