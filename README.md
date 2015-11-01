@@ -14,13 +14,7 @@ following execptions:
 
 ##Installation
 
-My app was built using the Precompiled Bootstrap framework (version v3.3.5)  
-After installing the ping pong app, start the server by typing "jekyll serve"    
-on the command line. Next, go to your browser and type in the server address    
-"http://127.0.0.1:4000". The ping pong app will be up and running ready to crunch    
-some numbers.
-
-Install ping pong by cloning this repository
+Install ping pong by cloning this repository:
 ```
 https://github.com/Mahonmr/epicodus_test.git
 ```
